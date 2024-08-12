@@ -1,6 +1,5 @@
 - Hi, I’m @aadhilabdulla
-- I’m interested in web development
-- Learning Python and JavaScript
+- I’m interested in Web Development and Application Development
 - Contact: aadhil242@gmail.com
 
 <!---
