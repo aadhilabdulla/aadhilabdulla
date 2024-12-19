@@ -1,5 +1,5 @@
 - Hi, I’m @aadhilabdulla
-- I’m interested in Web Development and Application Development
+- I’m interested in Software Development
 - Contact: aadhil242@gmail.com
 
 <!---
