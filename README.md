@@ -1,5 +1,7 @@
 - Hi, I’m @aadhilabdulla
-- I’m interested in Software Development
+- Android Developer
+- MERN Stack web developer
+- Linux enthusiast 
 - Contact: aadhil242@gmail.com
 
 <!---
