@@ -1,6 +1,6 @@
 - Hi, I’m @aadhilabdulla
 - Android Developer
-- MERN Stack web developer
+- NodeJS Developer
 - Linux enthusiast 
 - Contact: aadhil242@gmail.com
 
