@@ -57,5 +57,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aadhilabdulla&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aadhilabdulla&show_icons=true&theme=dark" />
 </p>
