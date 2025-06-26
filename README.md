@@ -53,7 +53,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadhilabdulla&layout=compact" width="45%"/>
-  <img src="https://streak-stats.demolab.com/?user=aadhilabdulla" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aadhilabdulla&layout=compact" width="45%" style="height:200px;" />
+  <img src="https://streak-stats.demolab.com/?user=aadhilabdulla" width="45%" style="height:200px;" />
 </p>
+
 
